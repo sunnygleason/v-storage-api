@@ -1,8 +1,11 @@
 package voldemort.server;
 
 import java.util.List;
+import java.util.Properties;
 
-public abstract class VoldemortConfig {
+public class VoldemortConfig {
+	public VoldemortConfig(Properties properties) {}
+	
 	public int getGossipInterval() {
 		return 0;
 	}
