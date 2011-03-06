@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.g414.voldemort</groupId>
   <artifactId>v-storage-api</artifactId>
-  <version>0.8.2</version>
+  <version>0.90</version>
 
   <dependencies>
     <dependency>
